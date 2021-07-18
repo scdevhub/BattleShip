@@ -27,9 +27,9 @@ namespace BattleShip.CLII
 
             guib.ShowCoordinateAssignment(name, gb1.shipCollection);
 
-            Console.Write("PC SHIP ASSIGNMENT : ");
+            //Console.Write("PC SHIP ASSIGNMENT : ");
 
-            guib.ShowCoordinateAssignment("PC", gb2.shipCollection);
+            //guib.ShowCoordinateAssignment("PC", gb2.shipCollection);
 
             do
             {
